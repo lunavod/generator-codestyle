@@ -1,0 +1,7 @@
+{
+  "extends": ["plugin:lodash/recommended"],
+  "plugins": ["lodash"],
+  "rules": {
+    "lodash/import-scope": [2, "member"]
+  }
+}

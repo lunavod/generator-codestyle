@@ -1,0 +1,4 @@
+{
+  "extends": ["plugin:promise/recommended"],
+  "plugins": ["promise"]
+}

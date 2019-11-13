@@ -1,0 +1,7 @@
+{
+  "extends": ["stylelint-config-recommended", "stylelint-config-css-modules"],
+  "rules": {
+    "block-no-empty": null,
+    "indentation": "tab"
+  }
+}
