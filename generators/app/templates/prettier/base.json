@@ -1,6 +1,6 @@
 {
   "useTabs": <%= indent == 'tab' %>,
-  "tabSize": <%= indent != 'tab'? indent : 1 %>,
+  "tabWidth": <%= indent != 'tab'? indent : 1 %>,
   "semi": <%= use_semi %>,
   "singleQuote": <%= quotes == 'single' %>
 }
